@@ -28,7 +28,7 @@ Established a professional presence across major platforms to prepare for future
 Demonstrated technical proficiency and collaborative skills through coding challenges and data collection.
 * **Coding Practice:** Completed beginner Python challenges on **HackerRank**.
 * **Collaboration Tool:** Created a 5-question Digital Literacy Quiz using **Google Forms**.
-* **Quiz Link:** [https://forms.gle/FpMETtdzkS2htXGP9]
+* **Quiz Link:**  https://forms.gle/FpMETtdzkS2htXGP9
 
 ### [Task 4: Professional Communication](./task-4-email-etiquette/)
 Applied formal email etiquette for academic and professional scenarios.
